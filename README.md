@@ -1,6 +1,17 @@
 # car_game
-This is a simple 2D car game this is just a demo iam working on it i will upload source when i made it better i designed it by game maker studio14 
+This is a simple 2D car game.I designed it by game maker studio14 .
+In this version i added health bar and a really biger map and some special buildings like mechanic.
+
+To use the project file just import .gmz file in game maker studio.
 
 How to play??
 
 Its easy control speed with up and down key and turn with left and right and press space to stop
+
+You will losse health by having accindent with walls or other cars.
+
+Drive into mechanic to restore health 
+
+Drive to home to save game.
+
+Press "M"to see map.
