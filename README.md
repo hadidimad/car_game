@@ -15,3 +15,7 @@ Drive into mechanic to restore health
 Drive to home to save game.
 
 Press "M"to see map.
+
+
+ Oh i find a really bad bug in the map part of game 
+I will fix it in next two hours
